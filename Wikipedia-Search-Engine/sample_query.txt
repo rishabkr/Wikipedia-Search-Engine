@@ -1,0 +1,19 @@
+2, t:the two towers i:1954
+3, t:World Cup i:2019 c:Cricket
+5, t:world cup i:2019
+10, t:World Cup c:cricket
+4, t:india gate c:monuments
+10, t:the two towers
+5, lesbouefs somme
+4, t:lord of the rings the two towers
+5, t:vietnam war b:vietnam war r:america
+10, led zeppelin
+3, t:british rule i:1947
+5,t:Polynomial b:algorithm 
+5, t:Autism b:autism c:brain
+10,t:Tendulkar b:Cricket i:2019
+5,c: tendulkar
+3,t:manmohan c:india
+5,t:gandhi
+4, t:Michael Jackson b:Michael Jackson c:Michael Jackson i:Michael Jackson r:Michael Jackson
+10,t:Harry Potter b:Harry Potter i:Harry Potter c:Harry Potter l:Harry Potter
